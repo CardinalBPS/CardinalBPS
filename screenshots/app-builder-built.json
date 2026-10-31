@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cardinal BPS | Home Health RCM, Coding & OASIS",
+      "hasCanvas": false,
+      "bodyTextLen": 4331,
+      "bodyTextHash": "cd736568c98efeaaa48ed1a07d8234b79749e489a50717718e40dd0868e0d3ef",
+      "bodyTextPrefix": "Cardinal BPS BUSINESS PROCESS SOLUTIONS Solutions Why Cardinal F",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cardinal BPS | Home Health RCM, Coding & OASIS",
+      "hasCanvas": false,
+      "bodyTextLen": 4290,
+      "bodyTextHash": "a30e203f937101a82b0163b464a6e8e59987e6d3bbeff9a639ae2f300e3a9784",
+      "bodyTextPrefix": "Cardinal BPS BUSINESS PROCESS SOLUTIONS HOME HEALTH HOME CARE HO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

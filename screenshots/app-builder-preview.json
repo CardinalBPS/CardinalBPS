@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cardinal BPS | Home Health RCM, Coding & OASIS",
+      "hasCanvas": false,
+      "bodyTextLen": 4327,
+      "bodyTextHash": "cd74166681d519609e398c4fc98c2f146131a181810bc2c7de1b213876084fb8",
+      "bodyTextPrefix": "CARDINAL Business Process Solutions Solutions Why Cardinal Free ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cardinal BPS | Home Health RCM, Coding & OASIS",
+      "hasCanvas": false,
+      "bodyTextLen": 4286,
+      "bodyTextHash": "3c06c9c7b316e3050077a59fabd247263276baf0e0eb5d0827c91e5270e6fa33",
+      "bodyTextPrefix": "CARDINAL Business Process Solutions HOME HEALTH HOME CARE HOSPIC",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
